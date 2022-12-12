@@ -131,7 +131,7 @@ const SignUp = () => {
                                     `bg-blue-500 cursor-pointer text-white rounded w-full h-8 font-bold ${isInvalid && "opacity-50"}`
                                 }
                             >
-                                Sign In
+                                Sign Up
                             </button>
                         </div>
                     </form>
