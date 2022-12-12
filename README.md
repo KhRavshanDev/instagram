@@ -22,8 +22,13 @@ Gitea
 ## Demo
 
 ```
-  https://master.d29cmkripu6i5y.amplifyapp.com/
+  https://master.d2yekpnx4nx8d3.amplifyapp.com/
 ```
+
+```
+  https://myinstagramapp.netlify.app/
+```  
+
 ## Installation
 
 Install ReactJs App, Firebase
