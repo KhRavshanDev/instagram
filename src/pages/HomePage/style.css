@@ -1,0 +1,6 @@
+.container1::after {
+    content: '';
+    background: gray;
+    height: calc(100% - 4rem);
+    width: 1px
+}
