@@ -22,7 +22,7 @@ Gitea
 ## Demo
 
 ```
-  https://master.d2yekpnx4nx8d3.amplifyapp.com/
+  https://master.d396r3qigwvuiw.amplifyapp.com/
 ```
 
 ```
